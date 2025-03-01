@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://MyahWing.github.io/sitemap.xml
